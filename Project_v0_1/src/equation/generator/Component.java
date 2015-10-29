@@ -7,6 +7,7 @@ public class Component
 	protected Node t1;
 	protected Node t2;
 	protected static int numComp = 0;
+	protected int holaGithub;
 	
 	protected Component(CompTypes cT, double value)
 	{
